@@ -8,7 +8,6 @@ screen = pygame.display.set_mode((0,0),pygame.FULLSCREEN)
 font = pygame.font.Font("/Users/kevinlacour/Downloads/freedom-font", 30)
 done = False
 #clock = pygame.time.Clock()
-#test
 
 
     
